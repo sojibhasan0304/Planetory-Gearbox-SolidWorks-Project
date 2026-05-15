@@ -8,7 +8,7 @@ This repository contains the full 3D CAD files for a functional planetary gearbo
 ## 🔍 Visual Preview
 <!-- Visual anchor for your project rendering or motion study GIF -->
 <p align="center">
-  <img width="1914" height="1079" alt="Screenshot 2026-05-13 180620" src="https://github.com/user-attachments/assets/2ad3eb98-f21c-42da-88c6-1925775c6376" />
+  <img width="1919" height="1079" alt="Screenshot 2026-05-15 203157" src="https://github.com/user-attachments/assets/8276a856-954f-415b-8b15-740b15f46a8a" />
 </p>
 
 ## ⚙️ Project Specifications
