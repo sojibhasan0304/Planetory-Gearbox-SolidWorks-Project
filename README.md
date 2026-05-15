@@ -24,13 +24,9 @@ This repository contains the full 3D CAD files for a functional planetary gearbo
 
 ## 🚀 How to Use
 1. Ensure you have **Git LFS** installed on your local computer before cloning.
-2. Clone this repository to your local machine using your terminal:
-   ```bash
-   git clone <your-repository-url>
-   ```
-3. Open SolidWorks and locate the root directory.
-4. Launch the main assembly file: `planetary_gearbox_colourSwap.SLDASM`
-5. Switch to the **Motion Study** tab at the bottom panel to play or simulate the rotary motor actuation.
+2. Open SolidWorks and locate the root directory.
+3. Launch the main assembly file: `planetary_gearbox_colourSwap.SLDASM`
+4. Switch to the **Motion Study** tab at the bottom panel to play or simulate the rotary motor actuation.
 
 ## ⚠️ Collaboration Notice
 Because SolidWorks CAD data consists of binary files, standard text-based Git merging is not supported. If you are collaborating on this project, please coordinate changes with team members beforehand to avoid file conflicts or data overwrites.
